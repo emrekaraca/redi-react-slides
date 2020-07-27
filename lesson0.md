@@ -17,7 +17,7 @@
 
 0. [Practical Infos](#info)
 1. [Introduction](#lesson1:intro)
-1. JS Catch-Up
+1. JS Catch-Up - [Part 1](#lesson1:js-refresh) / [Part 2](#lesson2:js-refresh)
 1. React Base Features
 1. Component Lifecycle
 1. Lists & Conditionals
@@ -35,7 +35,7 @@
 
 ### classes
 
-August: [1/24.8.](#lesson1) | 2/26.8. |  3/31.8.
+August: [1/24.8.](#lesson1) | [2/26.8.](#lesson2) |  3/31.8.
 <br>
 September:
 <br>

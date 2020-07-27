@@ -16,10 +16,11 @@
 
 ### Agenda
 
-- [1. Introduction](#lesson1:intro) ([Exercises](#lesson1:intro:exercises))
-- [2. JS-Refresh - Part 1](#lesson1:js-refresh) ([Exercises](#lesson1:js-refresh:exercises))
-
-[Jump to Homework](#lesson1:homework)
+1. [Introduction](#lesson1:intro) ([Exercises](#lesson1:intro:exercises))
+1. [JS-Refresh - Part 1](#lesson1:js-refresh) ([Exercises](#lesson1:js-refresh:exercises))
+1. [Summary](#lesson1:summary)
+1. [Resources](#lesson1:resources)
+1. [Homework](#lesson1:homework)
 
 ---
 
@@ -109,10 +110,7 @@ Note: Highlight, how JS is now on a yearly schedule since 2015
 
 - [Datatypes](#lesson1:js-refresh:datatypes)
 - [`var` / `let` / `const`](#lesson1:js-refresh:var-let-const)
-- [Arrow Functions](#lesson1:js-refresh:arrow-fns)
-- [Spread & Rest Operators](#lesson1:js-refresh:spread-rest)
-- [Destructuring](#lesson1:js-refresh:destructuring)
-- [JavaScript Fundamentals Resources](#lesson1:js-refresh:resources)
+- [Resources](#lesson1:js-refresh:resources)
 
 ---
 
@@ -329,27 +327,21 @@ Note: Opinionated, but simple and easy to remember.
 
 ---
 
-<!-- .slide: id="lesson1:js-refresh:arrow-fns" -->
+<!-- .slide: id="lesson1:js-refresh:exercises" -->
 
-### Arrow Functions
-
----
-
-<!-- .slide: id="lesson1:js-refresh:spread-rest" -->
-
-### Spread & Rest Operators
+## Exercises
 
 ---
 
-<!-- .slide: id="lesson1:js-refresh:destructuring" -->
+<!-- .slide: id="lesson1:summary" -->
 
-### Destructuring
+## Summary
 
 ---
 
-<!-- .slide: id="lesson1:js-refresh:resources" -->
+<!-- .slide: id="lesson1:resources" -->
 
-### JavaScript Fundamentals Resources
+## Resources
 
 * https://justjavascript.com/
 

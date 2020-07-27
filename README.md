@@ -12,7 +12,9 @@ Then, choose "File - Print" in your browser and choose "Save as PDF".
 
 ## Teachers
 
-Check out the teacher's [README](README-teachers.md)
+When presenting, press "S" to open speaker view.
+
+Check out the teacher's [README](README-teachers.md) for adding/changing slides.
 
 # Thanks
 This setup was adapted from the slides-repo of the [Redi-JS-course](https://github.com/ReDI-School/js-berlin-2020-spring).
